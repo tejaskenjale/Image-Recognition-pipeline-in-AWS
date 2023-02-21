@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: TEJAS KENJALE
+Build-Jdk: 17
+Main-Class: net.njit.cc362.DetectText
+Created-By: Maven Integration for Eclipse
+
